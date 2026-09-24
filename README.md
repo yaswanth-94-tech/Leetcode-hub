@@ -279,3 +279,15 @@ Languages: python, python3, cpp, java, c, csharp, javascript, typescript, kotlin
 ---
 
 Made with [leetfetch](https://github.com/Rage997/leetfetch).
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+<!---LeetCode Topics End-->
