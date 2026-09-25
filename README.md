@@ -289,5 +289,14 @@ Made with [leetfetch](https://github.com/Rage997/leetfetch).
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0070-climbing-stairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
