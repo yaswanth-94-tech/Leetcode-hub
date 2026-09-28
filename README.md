@@ -299,4 +299,16 @@ Made with [leetfetch](https://github.com/Rage997/leetfetch).
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
