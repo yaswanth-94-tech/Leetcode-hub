@@ -285,6 +285,7 @@ Made with [leetfetch](https://github.com/Rage997/leetfetch).
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0198-house-robber) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
@@ -295,6 +296,7 @@ Made with [leetfetch](https://github.com/Rage997/leetfetch).
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
