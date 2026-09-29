@@ -286,6 +286,7 @@ Made with [leetfetch](https://github.com/Rage997/leetfetch).
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0198-house-robber) |
+| [0645-set-mismatch](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0645-set-mismatch) |
 | [1313-decompress-run-length-encoded-list](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/1313-decompress-run-length-encoded-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
@@ -314,4 +315,16 @@ Made with [leetfetch](https://github.com/Rage997/leetfetch).
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
