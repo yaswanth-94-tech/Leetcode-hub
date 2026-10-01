@@ -286,6 +286,7 @@ Made with [leetfetch](https://github.com/Rage997/leetfetch).
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0213-house-robber-ii) |
 | [0645-set-mismatch](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0645-set-mismatch) |
 | [1313-decompress-run-length-encoded-list](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/1313-decompress-run-length-encoded-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -299,6 +300,7 @@ Made with [leetfetch](https://github.com/Rage997/leetfetch).
 | ------- |
 | [0070-climbing-stairs](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0213-house-robber-ii) |
 ## Memoization
 |  |
 | ------- |
