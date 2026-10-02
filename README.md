@@ -298,6 +298,7 @@ Made with [leetfetch](https://github.com/Rage997/leetfetch).
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0213-house-robber-ii) |
@@ -309,6 +310,7 @@ Made with [leetfetch](https://github.com/Rage997/leetfetch).
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
@@ -321,6 +323,7 @@ Made with [leetfetch](https://github.com/Rage997/leetfetch).
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
@@ -335,4 +338,8 @@ Made with [leetfetch](https://github.com/Rage997/leetfetch).
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0645-set-mismatch) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/yaswanth-94-tech/Leetcode-hub/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
